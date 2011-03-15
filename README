@@ -1,0 +1,17 @@
+A simple game to test your reflexes
+
+According to humanbenchmark.com, the average reaction
+time to visual stimuli in humans is 215 miliseconds.
+
+Just press any key when the button lights up, and
+see how sharp your reflexes are today!
+
+contributed by garu for the SDL Game Contest.
+
+Released under the same terms as perl 5.
+
+Art Copyright:
+
+The button sprite was based on the button artwork
+from 
+http://opengameart.org/content/gui-buttons-activehover
